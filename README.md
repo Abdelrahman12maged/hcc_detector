@@ -12,3 +12,7 @@ Backend: The backend is powered by a sophisticated AI model implemented in PyTor
 Integration: Our application seamlessly integrates the AI model with the Flutter frontend, ensuring real-time processing and results.
 This application is a game-changer in the medical field, providing doctors with an advanced tool to enhance their diagnostic accuracy and speed. By leveraging AI, we aim to improve patient outcomes and support healthcare professionals in their critical work.
 We are excited about the potential impact this project can have on medical diagnostics and look forward to your feedback.
+
+
+https://github.com/user-attachments/assets/9e353fc0-fb22-42e6-a01c-e529fb60495e
+
